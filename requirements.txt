@@ -1,0 +1,5 @@
+requests==2.25.1
+beautifulsoup4==4.9.3
+jsonschema==3.2.0
+
+You can copy this code into the corresponding files in your project directory and run it locally. If you need further assistance, feel free to ask!
