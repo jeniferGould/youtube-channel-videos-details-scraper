@@ -1,0 +1,10 @@
+{
+    "startUrls": [
+        "https://www.youtube.com/c/SomeChannel"
+    ],
+    "maxItems": 100,
+    "proxyConfiguration": {
+        "useProxy": true,
+        "proxyUrl": "http://proxy.example.com"
+    }
+}
